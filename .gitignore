@@ -1,0 +1,14 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and scratch
+*.log
+.vscode/
+.idea/
